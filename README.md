@@ -23,28 +23,13 @@ I build intelligent systems with a focus on **Generative AI, Deep Learning**. I 
 | 🧠 **Brain Tumor MRI Classifier** | Created a CNN-based system to classify tumor types from axial, sagittal, and coronal MRI views |
 | 📜 **Legal Contract Evaluation using GenAI** | Built a Gemini-powered contract analysis engine using vector-based retrieval to detect risky clauses, summarize obligations, and flag compliance gaps through semantic chunking and contextual reasoning |
 
----
-
-### 💼 Industry Experience
-| Role | Organization | Focus Areas |
-|------|--------------|-------------|
-| AI Engineer Intern | Intellect Design Arena | Confidence score generation for LLMS relating to high criticality insurance documents|
-| Data Science Intern | Ford Motor Company | NL-to-SQL GenAI for supply chain analytics and query-driven insight extraction |
 
 ---
-
-
 ### ⚙️ Tech I Use
 
 `Python` · `R` · `SQL`  
 `PyTorch` · `TensorFlow` · `Transformers` · `Hugging Face`  
 `PostgreSQL` · `MongoDB` · `Firestore` · `Vector DBs`  
-
----
-
-### 📜 Certifications
-🎓 Stanford Online – AI/ML  
-🔷 Microsoft Azure AI-102  
 
 ---
 
