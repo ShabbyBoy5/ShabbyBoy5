@@ -4,14 +4,14 @@
 ---
 
 ### 🧠 What I Do
-I build intelligent systems with a focus on **Generative AI, Reinforcement Learning, and Explainable AI**. I care about models that don’t just output answers, but can reason, justify, and adapt.
+I build intelligent systems with a focus on **Generative AI, Deep Learning**. I prefer my models non black boxified but LLMs are a pain 😿
 
 ---
 
 ### 📍 Currently
 🚧 Developing **causal counterfactual explanations for time-series anomalies** using SCM-backed diffusion models  
-🧾 *I’m building a Gemini-driven system that learns to read legal contracts like a reasoning assistant — breaking them into meaningful chunks, retrieving context through embeddings, and calling out risky clauses or missing terms in natural language.*  
-⚙️ Exploring lightweight confidence-aware evaluation layers for GenAI outputs  
+🧾 building cool a clause based contract analysis engine
+⚙️ Exploring Explainability for LLMs
 
 ---
 
@@ -28,24 +28,16 @@ I build intelligent systems with a focus on **Generative AI, Reinforcement Learn
 ### 💼 Industry Experience
 | Role | Organization | Focus Areas |
 |------|--------------|-------------|
-| AI Engineer Intern | Intellect Design Arena | GenAI for legal understanding, prompt engineering, model evaluation layers |
+| AI Engineer Intern | Intellect Design Arena | Confidence score generation for LLMS relating to high criticality insurance documents|
 | Data Science Intern | Ford Motor Company | NL-to-SQL GenAI for supply chain analytics and query-driven insight extraction |
 
 ---
 
-### 💬 My GenAI Work Interests
-✅ Gemini & GPT model reasoning  
-✅ Legal document intelligence  
-✅ Retrieval-augmented generation (RAG)  
-✅ Prompt-driven semantic risk detection  
-✅ Confidence-informed GenAI workflows  
-
----
 
 ### ⚙️ Tech I Use
-`Python` · `R` · `C/C++` · `SQL`  
+
+`Python` · `R` · `SQL`  
 `PyTorch` · `TensorFlow` · `Transformers` · `Hugging Face`  
-`GenAI` · `RL` · `XAI` · `NLP` · `CNNs`  
 `PostgreSQL` · `MongoDB` · `Firestore` · `Vector DBs`  
 
 ---
@@ -57,14 +49,14 @@ I build intelligent systems with a focus on **Generative AI, Reinforcement Learn
 ---
 
 ### 💬 A Bit About Me
-I enjoy designing AI systems that think structurally — whether they’re searching architectures with Q-learning, detecting anomalies with causal reasoning, or dissecting legal clauses like a digital analyst. I appreciate models that not only perform, but explain.
+I build cool stuff that is simple yet impactful. Also i love cats
 
 ---
 
 ### 📬 Connect With Me
 <p align="left">
-<a href="https://linkedin.com/in/<your-linkedin>" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:<your-email>"><img src="https://img.shields.io/badge/Email-grey?style=flat-square&logo=gmail"></a>
+<a href="https://linkedin.com/in/rishabnaveen" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:rishab.naveen04@gmail.com"><img src="https://img.shields.io/badge/Email-grey?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ Open to conversations around GenAI, legal reasoning systems, and reinforcement-driven exploration.
+⭐️ Would love to hear your thoughts on how AI's could be made explainable ,or if u want to be spammed with cat photos.
