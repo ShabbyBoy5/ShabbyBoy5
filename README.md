@@ -11,11 +11,12 @@ I build intelligent systems with a focus on **Generative AI, Deep Learning**. I 
 ### 📍 Currently
 🚧 Developing **causal counterfactual explanations for time-series anomalies** using SCM-backed diffusion models  
 🧾 building cool a clause based contract analysis engine
+
 ⚙️ Exploring Explainability for LLMs
 
 ---
 
-### 📚 Selected AI & GenAI Projects
+### Stuff i've built/currently building
 | Project | What it’s about |
 |---------|-----------------|
 | 🏗️ **Neural Architecture Search (DDQN)** | Built a NAS framework using Deep Double Q-Networks to let an agent explore optimal model architectures |
