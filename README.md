@@ -10,7 +10,7 @@ I build intelligent systems with a focus on **Generative AI, Deep Learning**. I 
 
 ### 📍 Currently
 🚧 Developing **causal counterfactual explanations for time-series anomalies** using SCM-backed diffusion models  
-🧾 building cool a clause based contract analysis engine  
+🧾 building a cool clause based contract analysis engine  
 ⚙️ Exploring Explainability for LLMs
 
 ---
